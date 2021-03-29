@@ -186,7 +186,7 @@ pyDes==2.0.1
 pydub==0.23.0
 pyflakes==1.6.0
 pygame==1.9.4
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.4
 pylint==1.7.4
 pymongo==3.7.2
