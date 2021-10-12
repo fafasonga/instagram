@@ -149,7 +149,7 @@ numpydoc==0.7.0
 oauthlib==2.1.0
 odo==0.5.1
 olefile==0.44
-opencv-contrib-python==3.4.3.18
+opencv-contrib-python==4.2.0.32
 openpyxl==2.4.8
 optional-django==0.1.0
 packaging==16.8
