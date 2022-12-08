@@ -26,7 +26,7 @@ boto==2.48.0
 Bottleneck==1.2.1
 branca==0.2.0
 bs4==0.0.1
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.10.0
 cfscrape==1.9.5
 chardet==3.0.4
